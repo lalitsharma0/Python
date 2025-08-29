@@ -22,7 +22,7 @@ How to Run:
   python task1.py
 
 
-Task 2 Personalized greetings
+Task 2: Personalized greetings
 Discription 
    This program takes the user's first name and last name, combines them into a full name, and prints a personalized greeting.
 
