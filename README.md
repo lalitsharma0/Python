@@ -4,28 +4,10 @@ Tutedude Python programming Learning Assignment
 
 # Python Assignment - Basic Python Concepts
 
+**step 1** install git from https://git-scm.com/downloads
 
+**step 2** clone repository by thease command: git clone https://github.com/lalitsharma0/Python.git
 
- Contents
+**step 3** Run first task:   python task1.py
 
-Task 1 - Basic Mathematical Operations
- File:`task1.py`
- 
-Description:-
-  This program takes two numbers as input and performs the following operations:
-  - Addition
-  - Subtraction
-  - Multiplication
-  - Division (handles division by zero)
-How to Run:
-    bash
-  python task1.py
-
-
-Task 2: Personalized greetings
-Discription 
-   This program takes the user's first name and last name, combines them into a full name, and prints a personalized greeting.
-
-How to run:
-    bash
-  python task2.py
+             
