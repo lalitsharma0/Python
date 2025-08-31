@@ -10,16 +10,8 @@ Tutedude Python programming Learning Assignment
 
 **step 3** : cd python
 
-ASSIGNMENT 1:
+ASSIGNMENT 2:
 
  Run first task:   python task1.py.                        
  Run Second task:   python task2.py
-
-ASSIGNMENT 2:
-
-Run first task : python task3.py
-
-Run second task: python task4.py
-
-
              
