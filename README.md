@@ -12,7 +12,7 @@ Tutedude Python programming Learning Assignment
 
 ASSIGNMENT 1:
 
- Run first task:   python task1.py
+ Run first task:   python task1.py.                        
  Run Second task:   python task2.py
 
 ASSIGNMENT 2:
