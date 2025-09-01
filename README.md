@@ -4,13 +4,13 @@ Tutedude Python programming Learning Assignment
 
 # Python Assignment - Basic Python Concepts
 
-**step 1** : install git from https://git-scm.com/downloads
+Open the GitHub repo → Click Code → Download ZIP.
 
-**step 2** : git clone https://github.com/lalitsharma0/Python.git
+Extract the ZIP.
 
-**step 3** : cd python
+Open a terminal/command prompt inside the extracted folder.
 
-ASSIGNMENT 2:
+ASSIGNMENT 1:
 
  Run first task:   python task1.py.                        
  Run Second task:   python task2.py
