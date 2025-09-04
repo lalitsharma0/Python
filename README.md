@@ -24,4 +24,9 @@ ASSIGNMENT 2:
 
  Run first task:   `python task5.py`                        
  Run Second task:   `python task6.py`
+
+  ASSIGNMENT 4:
+
+ Run first task:   `python task7.py`                        
+ Run Second task:   `python task8.py`
              
