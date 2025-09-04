@@ -1,0 +1,6 @@
+Enter some data: 25
+Enter more data to append: 50
+
+Final content of 'output.txt':
+25
+50
