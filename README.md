@@ -32,5 +32,5 @@ ASSIGNMENT 2:
 
   ASSIGNMENT 5:
 
- Run first task:   `python task9.py`                        
+ Run first task:   `python task9.py` use these name for task ('Suresh' 'Ramesh' 'Lucky' 'Radhey' 'Rohan')                     
  Run Second task:   `python task10.py`
